@@ -12,4 +12,6 @@ int main()
     printf("%d\n", a);
     int sum = a + b + c;
     printf("%d", sum);
+
+    return 0;
 }
